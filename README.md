@@ -22,7 +22,6 @@ Esta é uma API REST desenvolvida para o desafio do SCTec, focada no gerenciamen
 2. **Crie um ambiente virtual:**
    ```bash
    python -m venv venv
-a
 
 ## 📸 Demonstração da API
 ![Interface da API](./assets/swagger.png)   
